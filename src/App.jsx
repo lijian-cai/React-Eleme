@@ -12,7 +12,7 @@ class App extends Component {
   }
   render() { 
     return ( 
-      <Test />
+      <div>App</div>
      );
   }
 }
